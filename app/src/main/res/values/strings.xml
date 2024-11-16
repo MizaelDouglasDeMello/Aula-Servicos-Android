@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Aula-Servicos-Android</string>
+    <string name="descricao_service">Meu Serviço</string>
 </resources>
