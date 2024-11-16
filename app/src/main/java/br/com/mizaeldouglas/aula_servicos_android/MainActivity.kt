@@ -29,5 +29,8 @@ class MainActivity : AppCompatActivity() {
             startService(intentService)
 //            startForegroundService()
         }
+        binding.btnPararService.setOnClickListener {
+            stopService(intentService)
+        }
     }
 }
